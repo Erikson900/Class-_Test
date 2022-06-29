@@ -1,4 +1,6 @@
 #This is a new File on Git
 
-#:/bin/bash
+#!/bin/bash
 echo "Hello GIT" 
+
+echo "Script Runnig"
