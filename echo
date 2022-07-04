@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 some content here
+=======
+Something echoing here :P 
+>>>>>>> 43e219b58416a5dccc53dd1af2da0200e1ed2696
+
+echo "more text here"
